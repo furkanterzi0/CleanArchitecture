@@ -1,0 +1,11 @@
+C:\Users\furkan.terzi\Desktop\Architecture\Onion\ProductApp\src\Core\ProductApp.Domain\bin\Debug\net8.0\ProductApp.Domain.deps.json
+C:\Users\furkan.terzi\Desktop\Architecture\Onion\ProductApp\src\Core\ProductApp.Domain\bin\Debug\net8.0\ProductApp.Domain.dll
+C:\Users\furkan.terzi\Desktop\Architecture\Onion\ProductApp\src\Core\ProductApp.Domain\bin\Debug\net8.0\ProductApp.Domain.pdb
+C:\Users\furkan.terzi\Desktop\Architecture\Onion\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net8.0\ProductApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.terzi\Desktop\Architecture\Onion\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net8.0\ProductApp.Domain.AssemblyInfoInputs.cache
+C:\Users\furkan.terzi\Desktop\Architecture\Onion\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net8.0\ProductApp.Domain.AssemblyInfo.cs
+C:\Users\furkan.terzi\Desktop\Architecture\Onion\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net8.0\ProductApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\furkan.terzi\Desktop\Architecture\Onion\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net8.0\ProductApp.Domain.dll
+C:\Users\furkan.terzi\Desktop\Architecture\Onion\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net8.0\refint\ProductApp.Domain.dll
+C:\Users\furkan.terzi\Desktop\Architecture\Onion\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net8.0\ProductApp.Domain.pdb
+C:\Users\furkan.terzi\Desktop\Architecture\Onion\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net8.0\ref\ProductApp.Domain.dll

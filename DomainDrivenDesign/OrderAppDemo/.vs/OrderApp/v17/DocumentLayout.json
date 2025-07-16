@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00D9C8-7339-45A6-B035-9B056DCA6FE5}|Order.Domain\\Order.Domain.csproj|c:\\users\\furkan.terzi\\desktop\\domaindrivendesign\\orderapp\\order.domain\\aggregatemodels\\ordermodels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD00D9C8-7339-45A6-B035-9B056DCA6FE5}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\aggregatemodels\\ordermodels\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33443E62-E746-43EC-A372-770F269D9FDC}|Order.Application\\Order.Application.csproj|c:\\users\\furkan.terzi\\desktop\\domaindrivendesign\\orderapp\\order.application\\domaineventhandlers\\orderstarteddomaineventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33443E62-E746-43EC-A372-770F269D9FDC}|Order.Application\\Order.Application.csproj|solutionrelative:order.application\\domaineventhandlers\\orderstarteddomaineventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00D9C8-7339-45A6-B035-9B056DCA6FE5}|Order.Domain\\Order.Domain.csproj|c:\\users\\furkan.terzi\\desktop\\domaindrivendesign\\orderapp\\order.domain\\events\\orderstarteddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD00D9C8-7339-45A6-B035-9B056DCA6FE5}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\events\\orderstarteddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00D9C8-7339-45A6-B035-9B056DCA6FE5}|Order.Domain\\Order.Domain.csproj|c:\\users\\furkan.terzi\\desktop\\domaindrivendesign\\orderapp\\order.domain\\aggregatemodels\\buyermodels\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD00D9C8-7339-45A6-B035-9B056DCA6FE5}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\aggregatemodels\\buyermodels\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00D9C8-7339-45A6-B035-9B056DCA6FE5}|Order.Domain\\Order.Domain.csproj|c:\\users\\furkan.terzi\\desktop\\domaindrivendesign\\orderapp\\order.domain\\seedwork\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD00D9C8-7339-45A6-B035-9B056DCA6FE5}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\seedwork\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00D9C8-7339-45A6-B035-9B056DCA6FE5}|Order.Domain\\Order.Domain.csproj|c:\\users\\furkan.terzi\\desktop\\domaindrivendesign\\orderapp\\order.domain\\aggregatemodels\\ordermodels\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD00D9C8-7339-45A6-B035-9B056DCA6FE5}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\aggregatemodels\\ordermodels\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00D9C8-7339-45A6-B035-9B056DCA6FE5}|Order.Domain\\Order.Domain.csproj|c:\\users\\furkan.terzi\\desktop\\domaindrivendesign\\orderapp\\order.domain\\aggregatemodels\\ordermodels\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD00D9C8-7339-45A6-B035-9B056DCA6FE5}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\aggregatemodels\\ordermodels\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716876C1-669B-42D3-A0ED-3D0F5A4A060B}|Order.Infrastructure\\Order.Infrastructure.csproj|c:\\users\\furkan.terzi\\desktop\\domaindrivendesign\\orderapp\\order.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716876C1-669B-42D3-A0ED-3D0F5A4A060B}|Order.Infrastructure\\Order.Infrastructure.csproj|solutionrelative:order.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33443E62-E746-43EC-A372-770F269D9FDC}|Order.Application\\Order.Application.csproj|c:\\users\\furkan.terzi\\desktop\\domaindrivendesign\\orderapp\\order.application\\repositories\\ibuyerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33443E62-E746-43EC-A372-770F269D9FDC}|Order.Application\\Order.Application.csproj|solutionrelative:order.application\\repositories\\ibuyerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33443E62-E746-43EC-A372-770F269D9FDC}|Order.Application\\Order.Application.csproj|c:\\users\\furkan.terzi\\desktop\\domaindrivendesign\\orderapp\\order.application\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33443E62-E746-43EC-A372-770F269D9FDC}|Order.Application\\Order.Application.csproj|solutionrelative:order.application\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00D9C8-7339-45A6-B035-9B056DCA6FE5}|Order.Domain\\Order.Domain.csproj|c:\\users\\furkan.terzi\\desktop\\domaindrivendesign\\orderapp\\order.domain\\seedwork\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD00D9C8-7339-45A6-B035-9B056DCA6FE5}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\seedwork\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00D9C8-7339-45A6-B035-9B056DCA6FE5}|Order.Domain\\Order.Domain.csproj|c:\\users\\furkan.terzi\\desktop\\domaindrivendesign\\orderapp\\order.domain\\seedwork\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD00D9C8-7339-45A6-B035-9B056DCA6FE5}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\seedwork\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00D9C8-7339-45A6-B035-9B056DCA6FE5}|Order.Domain\\Order.Domain.csproj|c:\\users\\furkan.terzi\\desktop\\domaindrivendesign\\orderapp\\order.domain\\seedwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD00D9C8-7339-45A6-B035-9B056DCA6FE5}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\seedwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD00D9C8-7339-45A6-B035-9B056DCA6FE5}|Order.Domain\\Order.Domain.csproj|c:\\users\\furkan.terzi\\desktop\\domaindrivendesign\\orderapp\\order.domain\\seedwork\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD00D9C8-7339-45A6-B035-9B056DCA6FE5}|Order.Domain\\Order.Domain.csproj|solutionrelative:order.domain\\seedwork\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderStartedDomainEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Application\\DomainEventHandlers\\OrderStartedDomainEventHandler.cs",
+              "RelativeDocumentMoniker": "Order.Application\\DomainEventHandlers\\OrderStartedDomainEventHandler.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Application\\DomainEventHandlers\\OrderStartedDomainEventHandler.cs",
+              "RelativeToolTip": "Order.Application\\DomainEventHandlers\\OrderStartedDomainEventHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:53:13.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderStartedDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Domain\\Events\\OrderStartedDomainEvent.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\Events\\OrderStartedDomainEvent.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Domain\\Events\\OrderStartedDomainEvent.cs",
+              "RelativeToolTip": "Order.Domain\\Events\\OrderStartedDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:40:29.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBuyerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Application\\Repositories\\IBuyerRepository.cs",
+              "RelativeDocumentMoniker": "Order.Application\\Repositories\\IBuyerRepository.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Application\\Repositories\\IBuyerRepository.cs",
+              "RelativeToolTip": "Order.Application\\Repositories\\IBuyerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:36:57.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Order.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Order.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:35:22.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Application\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Order.Application\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Application\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "Order.Application\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:33:16.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Buyer.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Domain\\AggregateModels\\BuyerModels\\Buyer.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\AggregateModels\\BuyerModels\\Buyer.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Domain\\AggregateModels\\BuyerModels\\Buyer.cs",
+              "RelativeToolTip": "Order.Domain\\AggregateModels\\BuyerModels\\Buyer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:21:54.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Domain\\AggregateModels\\OrderModels\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\AggregateModels\\OrderModels\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Domain\\AggregateModels\\OrderModels\\OrderItem.cs",
+              "RelativeToolTip": "Order.Domain\\AggregateModels\\OrderModels\\OrderItem.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAwwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T07:43:02.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Domain\\AggregateModels\\OrderModels\\Order.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\AggregateModels\\OrderModels\\Order.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Domain\\AggregateModels\\OrderModels\\Order.cs",
+              "RelativeToolTip": "Order.Domain\\AggregateModels\\OrderModels\\Order.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvygAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T07:41:02.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Domain\\AggregateModels\\OrderModels\\Address.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\AggregateModels\\OrderModels\\Address.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Domain\\AggregateModels\\OrderModels\\Address.cs",
+              "RelativeToolTip": "Order.Domain\\AggregateModels\\OrderModels\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T07:24:17.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Domain\\SeedWork\\ValueObject.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\SeedWork\\ValueObject.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Domain\\SeedWork\\ValueObject.cs",
+              "RelativeToolTip": "Order.Domain\\SeedWork\\ValueObject.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T07:10:17.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Domain\\SeedWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\SeedWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Domain\\SeedWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "Order.Domain\\SeedWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T07:22:12.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Domain\\SeedWork\\IRepository.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\SeedWork\\IRepository.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Domain\\SeedWork\\IRepository.cs",
+              "RelativeToolTip": "Order.Domain\\SeedWork\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T07:21:30.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAggregateRoot.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Domain\\SeedWork\\IAggregateRoot.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\SeedWork\\IAggregateRoot.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Domain\\SeedWork\\IAggregateRoot.cs",
+              "RelativeToolTip": "Order.Domain\\SeedWork\\IAggregateRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T07:20:50.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Domain\\SeedWork\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Order.Domain\\SeedWork\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DomainDrivenDesign\\OrderApp\\Order.Domain\\SeedWork\\BaseEntity.cs",
+              "RelativeToolTip": "Order.Domain\\SeedWork\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T07:09:44.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

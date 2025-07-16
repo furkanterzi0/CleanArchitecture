@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6982040-EFC6-4580-9CB4-0F1A405BC51D}|src\\WebApi\\OnionArchDemo.WebApi\\OnionArchDemo.WebApi.csproj|c:\\users\\furkan.terzi\\desktop\\onionarch-project\\onionarchdemo\\src\\webapi\\onionarchdemo.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6982040-EFC6-4580-9CB4-0F1A405BC51D}|src\\WebApi\\OnionArchDemo.WebApi\\OnionArchDemo.WebApi.csproj|solutionrelative:src\\webapi\\onionarchdemo.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6982040-EFC6-4580-9CB4-0F1A405BC51D}|src\\WebApi\\OnionArchDemo.WebApi\\OnionArchDemo.WebApi.csproj|c:\\users\\furkan.terzi\\desktop\\onionarch-project\\onionarchdemo\\src\\webapi\\onionarchdemo.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6982040-EFC6-4580-9CB4-0F1A405BC51D}|src\\WebApi\\OnionArchDemo.WebApi\\OnionArchDemo.WebApi.csproj|solutionrelative:src\\webapi\\onionarchdemo.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715CF632-9967-4BB4-BD36-C66FFAB2C7B5}|src\\Infrastructure\\OnionArchDemo.Persistence\\OnionArchDemo.Persistence.csproj|c:\\users\\furkan.terzi\\desktop\\onionarch-project\\onionarchdemo\\src\\infrastructure\\onionarchdemo.persistence\\seed\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715CF632-9967-4BB4-BD36-C66FFAB2C7B5}|src\\Infrastructure\\OnionArchDemo.Persistence\\OnionArchDemo.Persistence.csproj|solutionrelative:src\\infrastructure\\onionarchdemo.persistence\\seed\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715CF632-9967-4BB4-BD36-C66FFAB2C7B5}|src\\Infrastructure\\OnionArchDemo.Persistence\\OnionArchDemo.Persistence.csproj|c:\\users\\furkan.terzi\\desktop\\onionarch-project\\onionarchdemo\\src\\infrastructure\\onionarchdemo.persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715CF632-9967-4BB4-BD36-C66FFAB2C7B5}|src\\Infrastructure\\OnionArchDemo.Persistence\\OnionArchDemo.Persistence.csproj|solutionrelative:src\\infrastructure\\onionarchdemo.persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715CF632-9967-4BB4-BD36-C66FFAB2C7B5}|src\\Infrastructure\\OnionArchDemo.Persistence\\OnionArchDemo.Persistence.csproj|c:\\users\\furkan.terzi\\desktop\\onionarch-project\\onionarchdemo\\src\\infrastructure\\onionarchdemo.persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715CF632-9967-4BB4-BD36-C66FFAB2C7B5}|src\\Infrastructure\\OnionArchDemo.Persistence\\OnionArchDemo.Persistence.csproj|solutionrelative:src\\infrastructure\\onionarchdemo.persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715CF632-9967-4BB4-BD36-C66FFAB2C7B5}|src\\Infrastructure\\OnionArchDemo.Persistence\\OnionArchDemo.Persistence.csproj|c:\\users\\furkan.terzi\\desktop\\onionarch-project\\onionarchdemo\\src\\infrastructure\\onionarchdemo.persistence\\repositories\\productrepostiroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715CF632-9967-4BB4-BD36-C66FFAB2C7B5}|src\\Infrastructure\\OnionArchDemo.Persistence\\OnionArchDemo.Persistence.csproj|solutionrelative:src\\infrastructure\\onionarchdemo.persistence\\repositories\\productrepostiroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787DC889-D13D-439B-BF13-6657B657D9A2}|src\\Core\\OnionArchDemo.Application\\OnionArchDemo.Application.csproj|c:\\users\\furkan.terzi\\desktop\\onionarch-project\\onionarchdemo\\src\\core\\onionarchdemo.application\\features\\queries\\getallproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787DC889-D13D-439B-BF13-6657B657D9A2}|src\\Core\\OnionArchDemo.Application\\OnionArchDemo.Application.csproj|solutionrelative:src\\core\\onionarchdemo.application\\features\\queries\\getallproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787DC889-D13D-439B-BF13-6657B657D9A2}|src\\Core\\OnionArchDemo.Application\\OnionArchDemo.Application.csproj|c:\\users\\furkan.terzi\\desktop\\onionarch-project\\onionarchdemo\\src\\core\\onionarchdemo.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787DC889-D13D-439B-BF13-6657B657D9A2}|src\\Core\\OnionArchDemo.Application\\OnionArchDemo.Application.csproj|solutionrelative:src\\core\\onionarchdemo.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715CF632-9967-4BB4-BD36-C66FFAB2C7B5}|src\\Infrastructure\\OnionArchDemo.Persistence\\OnionArchDemo.Persistence.csproj|c:\\users\\furkan.terzi\\desktop\\onionarch-project\\onionarchdemo\\src\\infrastructure\\onionarchdemo.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715CF632-9967-4BB4-BD36-C66FFAB2C7B5}|src\\Infrastructure\\OnionArchDemo.Persistence\\OnionArchDemo.Persistence.csproj|solutionrelative:src\\infrastructure\\onionarchdemo.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715CF632-9967-4BB4-BD36-C66FFAB2C7B5}|src\\Infrastructure\\OnionArchDemo.Persistence\\OnionArchDemo.Persistence.csproj|c:\\users\\furkan.terzi\\desktop\\onionarch-project\\onionarchdemo\\src\\infrastructure\\onionarchdemo.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715CF632-9967-4BB4-BD36-C66FFAB2C7B5}|src\\Infrastructure\\OnionArchDemo.Persistence\\OnionArchDemo.Persistence.csproj|solutionrelative:src\\infrastructure\\onionarchdemo.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6982040-EFC6-4580-9CB4-0F1A405BC51D}|src\\WebApi\\OnionArchDemo.WebApi\\OnionArchDemo.WebApi.csproj|c:\\users\\furkan.terzi\\desktop\\onionarch-project\\onionarchdemo\\src\\webapi\\onionarchdemo.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6982040-EFC6-4580-9CB4-0F1A405BC51D}|src\\WebApi\\OnionArchDemo.WebApi\\OnionArchDemo.WebApi.csproj|solutionrelative:src\\webapi\\onionarchdemo.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787DC889-D13D-439B-BF13-6657B657D9A2}|src\\Core\\OnionArchDemo.Application\\OnionArchDemo.Application.csproj|c:\\users\\furkan.terzi\\desktop\\onionarch-project\\onionarchdemo\\src\\core\\onionarchdemo.application\\features\\queries\\getalluserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787DC889-D13D-439B-BF13-6657B657D9A2}|src\\Core\\OnionArchDemo.Application\\OnionArchDemo.Application.csproj|solutionrelative:src\\core\\onionarchdemo.application\\features\\queries\\getalluserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787DC889-D13D-439B-BF13-6657B657D9A2}|src\\Core\\OnionArchDemo.Application\\OnionArchDemo.Application.csproj|c:\\users\\furkan.terzi\\desktop\\onionarch-project\\onionarchdemo\\src\\core\\onionarchdemo.application\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787DC889-D13D-439B-BF13-6657B657D9A2}|src\\Core\\OnionArchDemo.Application\\OnionArchDemo.Application.csproj|solutionrelative:src\\core\\onionarchdemo.application\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\Infrastructure\\OnionArchDemo.Persistence\\Seed\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionArchDemo.Persistence\\Seed\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\Infrastructure\\OnionArchDemo.Persistence\\Seed\\DbInitializer.cs",
+              "RelativeToolTip": "src\\Infrastructure\\OnionArchDemo.Persistence\\Seed\\DbInitializer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T06:10:30.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\Core\\OnionArchDemo.Application\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionArchDemo.Application\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\Core\\OnionArchDemo.Application\\ServiceRegistration.cs",
+              "RelativeToolTip": "src\\Core\\OnionArchDemo.Application\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T05:44:31.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\Infrastructure\\OnionArchDemo.Persistence\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionArchDemo.Persistence\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\Infrastructure\\OnionArchDemo.Persistence\\ServiceRegistration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\OnionArchDemo.Persistence\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T05:39:18.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\Infrastructure\\OnionArchDemo.Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionArchDemo.Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\Infrastructure\\OnionArchDemo.Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\OnionArchDemo.Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T05:31:42.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\WebApi\\OnionArchDemo.WebApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\OnionArchDemo.WebApi\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\WebApi\\OnionArchDemo.WebApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "src\\WebApi\\OnionArchDemo.WebApi\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T05:23:24.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetAllUserQuery.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\Core\\OnionArchDemo.Application\\Features\\Queries\\GetAllUserQuery.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionArchDemo.Application\\Features\\Queries\\GetAllUserQuery.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\Core\\OnionArchDemo.Application\\Features\\Queries\\GetAllUserQuery.cs",
+              "RelativeToolTip": "src\\Core\\OnionArchDemo.Application\\Features\\Queries\\GetAllUserQuery.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T22:27:45.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllProductQuery.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\Core\\OnionArchDemo.Application\\Features\\Queries\\GetAllProductQuery.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionArchDemo.Application\\Features\\Queries\\GetAllProductQuery.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\Core\\OnionArchDemo.Application\\Features\\Queries\\GetAllProductQuery.cs",
+              "RelativeToolTip": "src\\Core\\OnionArchDemo.Application\\Features\\Queries\\GetAllProductQuery.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAewBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T22:27:10.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\Infrastructure\\OnionArchDemo.Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionArchDemo.Persistence\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\Infrastructure\\OnionArchDemo.Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\OnionArchDemo.Persistence\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T22:26:25.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepostiroy.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\Infrastructure\\OnionArchDemo.Persistence\\Repositories\\ProductRepostiroy.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionArchDemo.Persistence\\Repositories\\ProductRepostiroy.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\Infrastructure\\OnionArchDemo.Persistence\\Repositories\\ProductRepostiroy.cs",
+              "RelativeToolTip": "src\\Infrastructure\\OnionArchDemo.Persistence\\Repositories\\ProductRepostiroy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T22:26:23.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\Infrastructure\\OnionArchDemo.Persistence\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionArchDemo.Persistence\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\Infrastructure\\OnionArchDemo.Persistence\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\OnionArchDemo.Persistence\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T22:23:39.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\Core\\OnionArchDemo.Application\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionArchDemo.Application\\AssemblyReference.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\Core\\OnionArchDemo.Application\\AssemblyReference.cs",
+              "RelativeToolTip": "src\\Core\\OnionArchDemo.Application\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T22:18:05.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\WebApi\\OnionArchDemo.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\OnionArchDemo.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\WebApi\\OnionArchDemo.WebApi\\Program.cs",
+              "RelativeToolTip": "src\\WebApi\\OnionArchDemo.WebApi\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwDAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T22:08:57.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\WebApi\\OnionArchDemo.WebApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "src\\WebApi\\OnionArchDemo.WebApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\OnionArch-Project\\OnionArchDemo\\src\\WebApi\\OnionArchDemo.WebApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "src\\WebApi\\OnionArchDemo.WebApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T22:03:18.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
