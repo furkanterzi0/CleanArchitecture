@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\furkan.terzi\\Desktop\\DDD-Project\\MyDDDApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{616A8ECD-F78B-456F-ABCD-6AC57D0B661C}|MyDDDApp.WebApi\\MyDDDApp.WebApi.csproj|c:\\users\\furkan.terzi\\desktop\\ddd-project\\mydddapp\\mydddapp.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616A8ECD-F78B-456F-ABCD-6AC57D0B661C}|MyDDDApp.WebApi\\MyDDDApp.WebApi.csproj|solutionrelative:mydddapp.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616A8ECD-F78B-456F-ABCD-6AC57D0B661C}|MyDDDApp.WebApi\\MyDDDApp.WebApi.csproj|c:\\users\\furkan.terzi\\desktop\\ddd-project\\mydddapp\\mydddapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616A8ECD-F78B-456F-ABCD-6AC57D0B661C}|MyDDDApp.WebApi\\MyDDDApp.WebApi.csproj|solutionrelative:mydddapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19DB939-7FAA-4960-9C30-7EB275DFFB58}|MyDDDApp.Persistence\\MyDDDApp.Persistence.csproj|c:\\users\\furkan.terzi\\desktop\\ddd-project\\mydddapp\\mydddapp.persistence\\seeddata\\applicationdbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E19DB939-7FAA-4960-9C30-7EB275DFFB58}|MyDDDApp.Persistence\\MyDDDApp.Persistence.csproj|solutionrelative:mydddapp.persistence\\seeddata\\applicationdbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1ED8D22-A9E0-41A3-BC80-1B80A820EE59}|MyDDDApp.Application\\MyDDDApp.Application.csproj|c:\\users\\furkan.terzi\\desktop\\ddd-project\\mydddapp\\mydddapp.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1ED8D22-A9E0-41A3-BC80-1B80A820EE59}|MyDDDApp.Application\\MyDDDApp.Application.csproj|solutionrelative:mydddapp.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1ED8D22-A9E0-41A3-BC80-1B80A820EE59}|MyDDDApp.Application\\MyDDDApp.Application.csproj|c:\\users\\furkan.terzi\\desktop\\ddd-project\\mydddapp\\mydddapp.application\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1ED8D22-A9E0-41A3-BC80-1B80A820EE59}|MyDDDApp.Application\\MyDDDApp.Application.csproj|solutionrelative:mydddapp.application\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19DB939-7FAA-4960-9C30-7EB275DFFB58}|MyDDDApp.Persistence\\MyDDDApp.Persistence.csproj|c:\\users\\furkan.terzi\\desktop\\ddd-project\\mydddapp\\mydddapp.persistence\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E19DB939-7FAA-4960-9C30-7EB275DFFB58}|MyDDDApp.Persistence\\MyDDDApp.Persistence.csproj|solutionrelative:mydddapp.persistence\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5683A949-D80E-4726-B0FA-5AB1043292E8}|MyDDDApp.Domain\\MyDDDApp.Domain.csproj|c:\\users\\furkan.terzi\\desktop\\ddd-project\\mydddapp\\mydddapp.domain\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5683A949-D80E-4726-B0FA-5AB1043292E8}|MyDDDApp.Domain\\MyDDDApp.Domain.csproj|solutionrelative:mydddapp.domain\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19DB939-7FAA-4960-9C30-7EB275DFFB58}|MyDDDApp.Persistence\\MyDDDApp.Persistence.csproj|c:\\users\\furkan.terzi\\desktop\\ddd-project\\mydddapp\\mydddapp.persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E19DB939-7FAA-4960-9C30-7EB275DFFB58}|MyDDDApp.Persistence\\MyDDDApp.Persistence.csproj|solutionrelative:mydddapp.persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1ED8D22-A9E0-41A3-BC80-1B80A820EE59}|MyDDDApp.Application\\MyDDDApp.Application.csproj|c:\\users\\furkan.terzi\\desktop\\ddd-project\\mydddapp\\mydddapp.application\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1ED8D22-A9E0-41A3-BC80-1B80A820EE59}|MyDDDApp.Application\\MyDDDApp.Application.csproj|solutionrelative:mydddapp.application\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5683A949-D80E-4726-B0FA-5AB1043292E8}|MyDDDApp.Domain\\MyDDDApp.Domain.csproj|c:\\users\\furkan.terzi\\desktop\\ddd-project\\mydddapp\\mydddapp.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5683A949-D80E-4726-B0FA-5AB1043292E8}|MyDDDApp.Domain\\MyDDDApp.Domain.csproj|solutionrelative:mydddapp.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContextSeed.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DDD-Project\\MyDDDApp\\MyDDDApp.Persistence\\SeedData\\ApplicationDbContextSeed.cs",
+              "RelativeDocumentMoniker": "MyDDDApp.Persistence\\SeedData\\ApplicationDbContextSeed.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DDD-Project\\MyDDDApp\\MyDDDApp.Persistence\\SeedData\\ApplicationDbContextSeed.cs",
+              "RelativeToolTip": "MyDDDApp.Persistence\\SeedData\\ApplicationDbContextSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T12:56:54.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DDD-Project\\MyDDDApp\\MyDDDApp.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "MyDDDApp.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DDD-Project\\MyDDDApp\\MyDDDApp.WebApi\\Program.cs",
+              "RelativeToolTip": "MyDDDApp.WebApi\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T12:40:50.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DDD-Project\\MyDDDApp\\MyDDDApp.WebApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MyDDDApp.WebApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DDD-Project\\MyDDDApp\\MyDDDApp.WebApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MyDDDApp.WebApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T12:33:43.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DDD-Project\\MyDDDApp\\MyDDDApp.Persistence\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "MyDDDApp.Persistence\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DDD-Project\\MyDDDApp\\MyDDDApp.Persistence\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "MyDDDApp.Persistence\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwCsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T12:20:48.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DDD-Project\\MyDDDApp\\MyDDDApp.Persistence\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MyDDDApp.Persistence\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DDD-Project\\MyDDDApp\\MyDDDApp.Persistence\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MyDDDApp.Persistence\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T12:16:49.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DDD-Project\\MyDDDApp\\MyDDDApp.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "MyDDDApp.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DDD-Project\\MyDDDApp\\MyDDDApp.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "MyDDDApp.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T12:02:26.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DDD-Project\\MyDDDApp\\MyDDDApp.Application\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "MyDDDApp.Application\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DDD-Project\\MyDDDApp\\MyDDDApp.Application\\Services\\IProductService.cs",
+              "RelativeToolTip": "MyDDDApp.Application\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T12:00:54.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DDD-Project\\MyDDDApp\\MyDDDApp.Application\\dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "MyDDDApp.Application\\dto\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DDD-Project\\MyDDDApp\\MyDDDApp.Application\\dto\\ProductDto.cs",
+              "RelativeToolTip": "MyDDDApp.Application\\dto\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:57:49.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DDD-Project\\MyDDDApp\\MyDDDApp.Domain\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "MyDDDApp.Domain\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DDD-Project\\MyDDDApp\\MyDDDApp.Domain\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "MyDDDApp.Domain\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:54:00.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DDD-Project\\MyDDDApp\\MyDDDApp.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "MyDDDApp.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DDD-Project\\MyDDDApp\\MyDDDApp.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "MyDDDApp.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:51:05.383Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
