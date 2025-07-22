@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Furkan\\Desktop\\TicketProject-DDD\\TicketProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{322B1AEE-30A1-4B10-9FB0-778078FF1859}|Ticket.Common\\Ticket.Common.csproj|c:\\users\\furkan\\desktop\\ticketproject-ddd\\ticketproject\\ticket.common\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322B1AEE-30A1-4B10-9FB0-778078FF1859}|Ticket.Common\\Ticket.Common.csproj|solutionrelative:ticket.common\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2344CD0E-46BD-4979-81FB-388AFECCF419}|Ticket.WebApi\\Ticket.WebApi.csproj|c:\\users\\furkan\\desktop\\ticketproject-ddd\\ticketproject\\ticket.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2344CD0E-46BD-4979-81FB-388AFECCF419}|Ticket.WebApi\\Ticket.WebApi.csproj|solutionrelative:ticket.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2344CD0E-46BD-4979-81FB-388AFECCF419}|Ticket.WebApi\\Ticket.WebApi.csproj|c:\\users\\furkan\\desktop\\ticketproject-ddd\\ticketproject\\ticket.webapi\\ticket.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2344CD0E-46BD-4979-81FB-388AFECCF419}|Ticket.WebApi\\Ticket.WebApi.csproj|solutionrelative:ticket.webapi\\ticket.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2344CD0E-46BD-4979-81FB-388AFECCF419}|Ticket.WebApi\\Ticket.WebApi.csproj|c:\\users\\furkan\\desktop\\ticketproject-ddd\\ticketproject\\ticket.webapi\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2344CD0E-46BD-4979-81FB-388AFECCF419}|Ticket.WebApi\\Ticket.WebApi.csproj|solutionrelative:ticket.webapi\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB862F89-9E02-4E20-9317-BB2B33DD9C7B}|Ticket.Infrastructure\\Ticket.Infrastructure.csproj|c:\\users\\furkan\\desktop\\ticketproject-ddd\\ticketproject\\ticket.infrastructure\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB862F89-9E02-4E20-9317-BB2B33DD9C7B}|Ticket.Infrastructure\\Ticket.Infrastructure.csproj|solutionrelative:ticket.infrastructure\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB862F89-9E02-4E20-9317-BB2B33DD9C7B}|Ticket.Infrastructure\\Ticket.Infrastructure.csproj|c:\\users\\furkan\\desktop\\ticketproject-ddd\\ticketproject\\ticket.infrastructure\\context\\ticketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB862F89-9E02-4E20-9317-BB2B33DD9C7B}|Ticket.Infrastructure\\Ticket.Infrastructure.csproj|solutionrelative:ticket.infrastructure\\context\\ticketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB8F6C5-0933-4FE1-9595-7A45B3B46719}|Ticket.Application\\Ticket.Application.csproj|c:\\users\\furkan\\desktop\\ticketproject-ddd\\ticketproject\\ticket.application\\validators\\ticketdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB8F6C5-0933-4FE1-9595-7A45B3B46719}|Ticket.Application\\Ticket.Application.csproj|solutionrelative:ticket.application\\validators\\ticketdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB8F6C5-0933-4FE1-9595-7A45B3B46719}|Ticket.Application\\Ticket.Application.csproj|c:\\users\\furkan\\desktop\\ticketproject-ddd\\ticketproject\\ticket.application\\interfaces\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB8F6C5-0933-4FE1-9595-7A45B3B46719}|Ticket.Application\\Ticket.Application.csproj|solutionrelative:ticket.application\\interfaces\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE706B3B-159E-4AC0-8C72-E0A6F0BEB1A6}|Ticket.Domain\\Ticket.Domain.csproj|c:\\users\\furkan\\desktop\\ticketproject-ddd\\ticketproject\\ticket.domain\\entites\\eticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE706B3B-159E-4AC0-8C72-E0A6F0BEB1A6}|Ticket.Domain\\Ticket.Domain.csproj|solutionrelative:ticket.domain\\entites\\eticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB8F6C5-0933-4FE1-9595-7A45B3B46719}|Ticket.Application\\Ticket.Application.csproj|c:\\users\\furkan\\desktop\\ticketproject-ddd\\ticketproject\\ticket.application\\dtos\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB8F6C5-0933-4FE1-9595-7A45B3B46719}|Ticket.Application\\Ticket.Application.csproj|solutionrelative:ticket.application\\dtos\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ticket.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\TicketProject-DDD\\TicketProject\\Ticket.WebApi\\Ticket.WebApi.csproj",
+              "RelativeDocumentMoniker": "Ticket.WebApi\\Ticket.WebApi.csproj",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\TicketProject-DDD\\TicketProject\\Ticket.WebApi\\Ticket.WebApi.csproj",
+              "RelativeToolTip": "Ticket.WebApi\\Ticket.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-22T13:10:42.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\TicketProject-DDD\\TicketProject\\Ticket.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Ticket.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\TicketProject-DDD\\TicketProject\\Ticket.WebApi\\Program.cs",
+              "RelativeToolTip": "Ticket.WebApi\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:57:28.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\TicketProject-DDD\\TicketProject\\Ticket.WebApi\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "Ticket.WebApi\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\TicketProject-DDD\\TicketProject\\Ticket.WebApi\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "Ticket.WebApi\\Controllers\\TicketController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:55:30.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\TicketProject-DDD\\TicketProject\\Ticket.Common\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Ticket.Common\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\TicketProject-DDD\\TicketProject\\Ticket.Common\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Ticket.Common\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:49:53.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\TicketProject-DDD\\TicketProject\\Ticket.Infrastructure\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "Ticket.Infrastructure\\Services\\TicketService.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\TicketProject-DDD\\TicketProject\\Ticket.Infrastructure\\Services\\TicketService.cs",
+              "RelativeToolTip": "Ticket.Infrastructure\\Services\\TicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwBQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:40:29.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\TicketProject-DDD\\TicketProject\\Ticket.Infrastructure\\Context\\TicketDbContext.cs",
+              "RelativeDocumentMoniker": "Ticket.Infrastructure\\Context\\TicketDbContext.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\TicketProject-DDD\\TicketProject\\Ticket.Infrastructure\\Context\\TicketDbContext.cs",
+              "RelativeToolTip": "Ticket.Infrastructure\\Context\\TicketDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:32:54.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITicketService.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\TicketProject-DDD\\TicketProject\\Ticket.Application\\Interfaces\\ITicketService.cs",
+              "RelativeDocumentMoniker": "Ticket.Application\\Interfaces\\ITicketService.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\TicketProject-DDD\\TicketProject\\Ticket.Application\\Interfaces\\ITicketService.cs",
+              "RelativeToolTip": "Ticket.Application\\Interfaces\\ITicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:29:55.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\TicketProject-DDD\\TicketProject\\Ticket.Application\\Validators\\TicketDtoValidator.cs",
+              "RelativeDocumentMoniker": "Ticket.Application\\Validators\\TicketDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\TicketProject-DDD\\TicketProject\\Ticket.Application\\Validators\\TicketDtoValidator.cs",
+              "RelativeToolTip": "Ticket.Application\\Validators\\TicketDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:22:08.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TicketDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\TicketProject-DDD\\TicketProject\\Ticket.Application\\DTOs\\TicketDTO.cs",
+              "RelativeDocumentMoniker": "Ticket.Application\\DTOs\\TicketDTO.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\TicketProject-DDD\\TicketProject\\Ticket.Application\\DTOs\\TicketDTO.cs",
+              "RelativeToolTip": "Ticket.Application\\DTOs\\TicketDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:19:14.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ETicket.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\TicketProject-DDD\\TicketProject\\Ticket.Domain\\Entites\\ETicket.cs",
+              "RelativeDocumentMoniker": "Ticket.Domain\\Entites\\ETicket.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\TicketProject-DDD\\TicketProject\\Ticket.Domain\\Entites\\ETicket.cs",
+              "RelativeToolTip": "Ticket.Domain\\Entites\\ETicket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:17:05.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

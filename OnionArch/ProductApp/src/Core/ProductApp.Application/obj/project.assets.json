@@ -1938,23 +1938,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\furkan.terzi\\.nuget\\packages\\": {},
+    "C:\\Users\\Furkan\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\furkan.terzi\\Desktop\\Architecture\\Onion\\ProductApp\\src\\Core\\ProductApp.Application\\ProductApp.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Furkan\\Desktop\\CleanArch\\OnionArch\\ProductApp\\src\\Core\\ProductApp.Application\\ProductApp.Application.csproj",
       "projectName": "ProductApp.Application",
-      "projectPath": "C:\\Users\\furkan.terzi\\Desktop\\Architecture\\Onion\\ProductApp\\src\\Core\\ProductApp.Application\\ProductApp.Application.csproj",
-      "packagesPath": "C:\\Users\\furkan.terzi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\furkan.terzi\\Desktop\\Architecture\\Onion\\ProductApp\\src\\Core\\ProductApp.Application\\obj\\",
+      "projectPath": "C:\\Users\\Furkan\\Desktop\\CleanArch\\OnionArch\\ProductApp\\src\\Core\\ProductApp.Application\\ProductApp.Application.csproj",
+      "packagesPath": "C:\\Users\\Furkan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Furkan\\Desktop\\CleanArch\\OnionArch\\ProductApp\\src\\Core\\ProductApp.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\furkan.terzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Furkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1969,8 +1969,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\furkan.terzi\\Desktop\\Architecture\\Onion\\ProductApp\\src\\Core\\ProductApp.Domain\\ProductApp.Domain.csproj": {
-              "projectPath": "C:\\Users\\furkan.terzi\\Desktop\\Architecture\\Onion\\ProductApp\\src\\Core\\ProductApp.Domain\\ProductApp.Domain.csproj"
+            "C:\\Users\\Furkan\\Desktop\\CleanArch\\OnionArch\\ProductApp\\src\\Core\\ProductApp.Domain\\ProductApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\Furkan\\Desktop\\CleanArch\\OnionArch\\ProductApp\\src\\Core\\ProductApp.Domain\\ProductApp.Domain.csproj"
             }
           }
         }
@@ -1985,7 +1985,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -2028,7 +2028,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
@@ -2037,8 +2037,8 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 15.0.1 was resolved.",
-      "libraryId": "AutoMapper",
+      "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 13.0.0 was resolved.",
+      "libraryId": "MediatR",
       "targetGraphs": [
         "net8.0"
       ]
@@ -2047,8 +2047,8 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 13.0.0 was resolved.",
-      "libraryId": "MediatR",
+      "message": "Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 15.0.1 was resolved.",
+      "libraryId": "AutoMapper",
       "targetGraphs": [
         "net8.0"
       ]

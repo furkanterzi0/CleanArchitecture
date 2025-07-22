@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6c0QvaMYuBU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Furkan\\Desktop\\TicketProject-DDD\\TicketProject\\Ticket.Application\\Ticket.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Furkan\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
