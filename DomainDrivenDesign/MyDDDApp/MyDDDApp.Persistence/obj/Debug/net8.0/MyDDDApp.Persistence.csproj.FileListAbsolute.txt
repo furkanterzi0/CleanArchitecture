@@ -1,0 +1,15 @@
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Persistence\bin\Debug\net8.0\MyDDDApp.Persistence.deps.json
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Persistence\bin\Debug\net8.0\MyDDDApp.Persistence.dll
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Persistence\bin\Debug\net8.0\MyDDDApp.Persistence.pdb
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Persistence\bin\Debug\net8.0\MyDDDApp.Domain.dll
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Persistence\bin\Debug\net8.0\MyDDDApp.Domain.pdb
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Persistence\obj\Debug\net8.0\MyDDDApp.Persistence.csproj.AssemblyReference.cache
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Persistence\obj\Debug\net8.0\MyDDDApp.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Persistence\obj\Debug\net8.0\MyDDDApp.Persistence.AssemblyInfoInputs.cache
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Persistence\obj\Debug\net8.0\MyDDDApp.Persistence.AssemblyInfo.cs
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Persistence\obj\Debug\net8.0\MyDDDApp.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Persistence\obj\Debug\net8.0\MyDDDApp.5008DDF7.Up2Date
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Persistence\obj\Debug\net8.0\MyDDDApp.Persistence.dll
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Persistence\obj\Debug\net8.0\refint\MyDDDApp.Persistence.dll
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Persistence\obj\Debug\net8.0\MyDDDApp.Persistence.pdb
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Persistence\obj\Debug\net8.0\ref\MyDDDApp.Persistence.dll

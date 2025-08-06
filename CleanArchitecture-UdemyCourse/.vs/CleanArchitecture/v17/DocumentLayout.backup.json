@@ -1,0 +1,483 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC21B113-8883-4299-B2C7-3A9D7EBAEE19}|src\\CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC21B113-8883-4299-B2C7-3A9D7EBAEE19}|src\\CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj|solutionrelative:src\\cleanarchitecture.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10872C70-3767-4BFA-8FA8-FF8AE3510749}|src\\External\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\external\\cleanarchitecture.infrastructure\\authorization\\roleattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10872C70-3767-4BFA-8FA8-FF8AE3510749}|src\\External\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|solutionrelative:src\\external\\cleanarchitecture.infrastructure\\authorization\\roleattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10872C70-3767-4BFA-8FA8-FF8AE3510749}|src\\External\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\external\\cleanarchitecture.infrastructure\\authorization\\rolefilterattribute .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10872C70-3767-4BFA-8FA8-FF8AE3510749}|src\\External\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|solutionrelative:src\\external\\cleanarchitecture.infrastructure\\authorization\\rolefilterattribute .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540124A4-816C-4F0B-A522-2AAFA6774054}|src\\External\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\external\\cleanarchitecture.presentation\\controller\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540124A4-816C-4F0B-A522-2AAFA6774054}|src\\External\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:src\\external\\cleanarchitecture.presentation\\controller\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8A9E10-B715-4458-9BE1-0D6F84CFA000}|src\\External\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\external\\cleanarchitecture.persistance\\services\\userroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8A9E10-B715-4458-9BE1-0D6F84CFA000}|src\\External\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:src\\external\\cleanarchitecture.persistance\\services\\userroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC72ADD-DB28-4271-9C64-24503908C4AE}|src\\Core\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\core\\cleanarchitecture.application\\services\\iuserroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC72ADD-DB28-4271-9C64-24503908C4AE}|src\\Core\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:src\\core\\cleanarchitecture.application\\services\\iuserroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10872C70-3767-4BFA-8FA8-FF8AE3510749}|src\\External\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\external\\cleanarchitecture.infrastructure\\authentication\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10872C70-3767-4BFA-8FA8-FF8AE3510749}|src\\External\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|solutionrelative:src\\external\\cleanarchitecture.infrastructure\\authentication\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10872C70-3767-4BFA-8FA8-FF8AE3510749}|src\\External\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\external\\cleanarchitecture.infrastructure\\authentication\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10872C70-3767-4BFA-8FA8-FF8AE3510749}|src\\External\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj|solutionrelative:src\\external\\cleanarchitecture.infrastructure\\authentication\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC72ADD-DB28-4271-9C64-24503908C4AE}|src\\Core\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\core\\cleanarchitecture.application\\features\\userrolefeatures\\commands\\createuserrole\\createuserrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC72ADD-DB28-4271-9C64-24503908C4AE}|src\\Core\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:src\\core\\cleanarchitecture.application\\features\\userrolefeatures\\commands\\createuserrole\\createuserrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC72ADD-DB28-4271-9C64-24503908C4AE}|src\\Core\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\core\\cleanarchitecture.application\\features\\rolefeatures\\commands\\createrole\\createrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC72ADD-DB28-4271-9C64-24503908C4AE}|src\\Core\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:src\\core\\cleanarchitecture.application\\features\\rolefeatures\\commands\\createrole\\createrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC72ADD-DB28-4271-9C64-24503908C4AE}|src\\Core\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\core\\cleanarchitecture.application\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC72ADD-DB28-4271-9C64-24503908C4AE}|src\\Core\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:src\\core\\cleanarchitecture.application\\services\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC72ADD-DB28-4271-9C64-24503908C4AE}|src\\Core\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\core\\cleanarchitecture.application\\features\\rolefeatures\\commands\\createrole\\createrolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC72ADD-DB28-4271-9C64-24503908C4AE}|src\\Core\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:src\\core\\cleanarchitecture.application\\features\\rolefeatures\\commands\\createrole\\createrolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540124A4-816C-4F0B-A522-2AAFA6774054}|src\\External\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\external\\cleanarchitecture.presentation\\controller\\userrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540124A4-816C-4F0B-A522-2AAFA6774054}|src\\External\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:src\\external\\cleanarchitecture.presentation\\controller\\userrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540124A4-816C-4F0B-A522-2AAFA6774054}|src\\External\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\external\\cleanarchitecture.presentation\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540124A4-816C-4F0B-A522-2AAFA6774054}|src\\External\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:src\\external\\cleanarchitecture.presentation\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540124A4-816C-4F0B-A522-2AAFA6774054}|src\\External\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\external\\cleanarchitecture.presentation\\controller\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540124A4-816C-4F0B-A522-2AAFA6774054}|src\\External\\CleanArchitecture.Presentation\\CleanArchitecture.Presentation.csproj|solutionrelative:src\\external\\cleanarchitecture.presentation\\controller\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8A9E10-B715-4458-9BE1-0D6F84CFA000}|src\\External\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\external\\cleanarchitecture.persistance\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8A9E10-B715-4458-9BE1-0D6F84CFA000}|src\\External\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:src\\external\\cleanarchitecture.persistance\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC72ADD-DB28-4271-9C64-24503908C4AE}|src\\Core\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\core\\cleanarchitecture.application\\features\\userrolefeatures\\commands\\createuserrole\\createuserrolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC72ADD-DB28-4271-9C64-24503908C4AE}|src\\Core\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:src\\core\\cleanarchitecture.application\\features\\userrolefeatures\\commands\\createuserrole\\createuserrolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8A9E10-B715-4458-9BE1-0D6F84CFA000}|src\\External\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\external\\cleanarchitecture.persistance\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8A9E10-B715-4458-9BE1-0D6F84CFA000}|src\\External\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:src\\external\\cleanarchitecture.persistance\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC72ADD-DB28-4271-9C64-24503908C4AE}|src\\Core\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\core\\cleanarchitecture.application\\features\\userrolefeatures\\commands\\createuserrole\\createuserrolecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC72ADD-DB28-4271-9C64-24503908C4AE}|src\\Core\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:src\\core\\cleanarchitecture.application\\features\\userrolefeatures\\commands\\createuserrole\\createuserrolecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC72ADD-DB28-4271-9C64-24503908C4AE}|src\\Core\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\core\\cleanarchitecture.application\\features\\rolefeatures\\commands\\createrole\\createrolevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC72ADD-DB28-4271-9C64-24503908C4AE}|src\\Core\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:src\\core\\cleanarchitecture.application\\features\\rolefeatures\\commands\\createrole\\createrolevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066F3922-C4A6-4475-95DA-FD94C1AB4EC0}|src\\Core\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\core\\cleanarchitecture.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066F3922-C4A6-4475-95DA-FD94C1AB4EC0}|src\\Core\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:src\\core\\cleanarchitecture.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066F3922-C4A6-4475-95DA-FD94C1AB4EC0}|src\\Core\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\core\\cleanarchitecture.domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066F3922-C4A6-4475-95DA-FD94C1AB4EC0}|src\\Core\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:src\\core\\cleanarchitecture.domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8A9E10-B715-4458-9BE1-0D6F84CFA000}|src\\External\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\external\\cleanarchitecture.persistance\\configurations\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8A9E10-B715-4458-9BE1-0D6F84CFA000}|src\\External\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:src\\external\\cleanarchitecture.persistance\\configurations\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8A9E10-B715-4458-9BE1-0D6F84CFA000}|src\\External\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\external\\cleanarchitecture.persistance\\configurations\\errorlogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8A9E10-B715-4458-9BE1-0D6F84CFA000}|src\\External\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:src\\external\\cleanarchitecture.persistance\\configurations\\errorlogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066F3922-C4A6-4475-95DA-FD94C1AB4EC0}|src\\Core\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\core\\cleanarchitecture.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066F3922-C4A6-4475-95DA-FD94C1AB4EC0}|src\\Core\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:src\\core\\cleanarchitecture.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8A9E10-B715-4458-9BE1-0D6F84CFA000}|src\\External\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\external\\cleanarchitecture.persistance\\configurations\\carconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8A9E10-B715-4458-9BE1-0D6F84CFA000}|src\\External\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:src\\external\\cleanarchitecture.persistance\\configurations\\carconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8A9E10-B715-4458-9BE1-0D6F84CFA000}|src\\External\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|c:\\users\\terzi\\documents\\.net-core\\cleanarchitecture-udemycourse\\cleanarchitecture\\src\\external\\cleanarchitecture.persistance\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8A9E10-B715-4458-9BE1-0D6F84CFA000}|src\\External\\CleanArchitecture.Persistance\\CleanArchitecture.Persistance.csproj|solutionrelative:src\\external\\cleanarchitecture.persistance\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Presentation\\Controller\\CarsController.cs",
+              "RelativeDocumentMoniker": "src\\External\\CleanArchitecture.Presentation\\Controller\\CarsController.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Presentation\\Controller\\CarsController.cs",
+              "RelativeToolTip": "src\\External\\CleanArchitecture.Presentation\\Controller\\CarsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T08:37:39.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleFilterAttribute .cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Infrastructure\\Authorization\\RoleFilterAttribute .cs",
+              "RelativeDocumentMoniker": "src\\External\\CleanArchitecture.Infrastructure\\Authorization\\RoleFilterAttribute .cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Infrastructure\\Authorization\\RoleFilterAttribute .cs",
+              "RelativeToolTip": "src\\External\\CleanArchitecture.Infrastructure\\Authorization\\RoleFilterAttribute .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T08:34:53.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Infrastructure\\Authorization\\RoleAttribute.cs",
+              "RelativeDocumentMoniker": "src\\External\\CleanArchitecture.Infrastructure\\Authorization\\RoleAttribute.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Infrastructure\\Authorization\\RoleAttribute.cs",
+              "RelativeToolTip": "src\\External\\CleanArchitecture.Infrastructure\\Authorization\\RoleAttribute.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T08:09:50.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Infrastructure\\Authentication\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "src\\External\\CleanArchitecture.Infrastructure\\Authentication\\JwtProvider.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Infrastructure\\Authentication\\JwtProvider.cs",
+              "RelativeToolTip": "src\\External\\CleanArchitecture.Infrastructure\\Authentication\\JwtProvider.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowBwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T08:08:06.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Infrastructure\\Authentication\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "src\\External\\CleanArchitecture.Infrastructure\\Authentication\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Infrastructure\\Authentication\\JwtOptions.cs",
+              "RelativeToolTip": "src\\External\\CleanArchitecture.Infrastructure\\Authentication\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T08:08:05.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Presentation\\Controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\External\\CleanArchitecture.Presentation\\Controller\\AuthController.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Presentation\\Controller\\AuthController.cs",
+              "RelativeToolTip": "src\\External\\CleanArchitecture.Presentation\\Controller\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:51:52.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRolesController.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Presentation\\Controller\\UserRolesController.cs",
+              "RelativeDocumentMoniker": "src\\External\\CleanArchitecture.Presentation\\Controller\\UserRolesController.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Presentation\\Controller\\UserRolesController.cs",
+              "RelativeToolTip": "src\\External\\CleanArchitecture.Presentation\\Controller\\UserRolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:51:19.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\Core\\CleanArchitecture.Application\\Services\\IRoleService.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CleanArchitecture.Application\\Services\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\Core\\CleanArchitecture.Application\\Services\\IRoleService.cs",
+              "RelativeToolTip": "src\\Core\\CleanArchitecture.Application\\Services\\IRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:48:10.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\Core\\CleanArchitecture.Application\\Services\\IUserRoleService.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CleanArchitecture.Application\\Services\\IUserRoleService.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\Core\\CleanArchitecture.Application\\Services\\IUserRoleService.cs",
+              "RelativeToolTip": "src\\Core\\CleanArchitecture.Application\\Services\\IUserRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:41:57.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Persistance\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "src\\External\\CleanArchitecture.Persistance\\Services\\CarService.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Persistance\\Services\\CarService.cs",
+              "RelativeToolTip": "src\\External\\CleanArchitecture.Persistance\\Services\\CarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:32:31.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Persistance\\Services\\UserRoleService.cs",
+              "RelativeDocumentMoniker": "src\\External\\CleanArchitecture.Persistance\\Services\\UserRoleService.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Persistance\\Services\\UserRoleService.cs",
+              "RelativeToolTip": "src\\External\\CleanArchitecture.Persistance\\Services\\UserRoleService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwCIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:30:37.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateUserRoleCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\Core\\CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommandHandler.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\Core\\CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommandHandler.cs",
+              "RelativeToolTip": "src\\Core\\CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:27:56.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateUserRoleCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\Core\\CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommandValidator.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommandValidator.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\Core\\CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommandValidator.cs",
+              "RelativeToolTip": "src\\Core\\CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:25:50.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateUserRoleCommand.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\Core\\CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommand.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommand.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\Core\\CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommand.cs",
+              "RelativeToolTip": "src\\Core\\CleanArchitecture.Application\\Features\\UserRoleFeatures\\Commands\\CreateUserRole\\CreateUserRoleCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:24:32.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Presentation\\Controller\\RolesController.cs",
+              "RelativeDocumentMoniker": "src\\External\\CleanArchitecture.Presentation\\Controller\\RolesController.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Presentation\\Controller\\RolesController.cs",
+              "RelativeToolTip": "src\\External\\CleanArchitecture.Presentation\\Controller\\RolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:10:43.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Persistance\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "src\\External\\CleanArchitecture.Persistance\\Services\\RoleService.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Persistance\\Services\\RoleService.cs",
+              "RelativeToolTip": "src\\External\\CleanArchitecture.Persistance\\Services\\RoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:01:44.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateRoleCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\Core\\CleanArchitecture.Application\\Features\\RoleFeatures\\Commands\\CreateRole\\CreateRoleCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CleanArchitecture.Application\\Features\\RoleFeatures\\Commands\\CreateRole\\CreateRoleCommandHandler.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\Core\\CleanArchitecture.Application\\Features\\RoleFeatures\\Commands\\CreateRole\\CreateRoleCommandHandler.cs",
+              "RelativeToolTip": "src\\Core\\CleanArchitecture.Application\\Features\\RoleFeatures\\Commands\\CreateRole\\CreateRoleCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T20:58:27.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateRoleValidator.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\Core\\CleanArchitecture.Application\\Features\\RoleFeatures\\Commands\\CreateRole\\CreateRoleValidator.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CleanArchitecture.Application\\Features\\RoleFeatures\\Commands\\CreateRole\\CreateRoleValidator.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\Core\\CleanArchitecture.Application\\Features\\RoleFeatures\\Commands\\CreateRole\\CreateRoleValidator.cs",
+              "RelativeToolTip": "src\\Core\\CleanArchitecture.Application\\Features\\RoleFeatures\\Commands\\CreateRole\\CreateRoleValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T20:53:27.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateRoleCommand.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\Core\\CleanArchitecture.Application\\Features\\RoleFeatures\\Commands\\CreateRole\\CreateRoleCommand.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CleanArchitecture.Application\\Features\\RoleFeatures\\Commands\\CreateRole\\CreateRoleCommand.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\Core\\CleanArchitecture.Application\\Features\\RoleFeatures\\Commands\\CreateRole\\CreateRoleCommand.cs",
+              "RelativeToolTip": "src\\Core\\CleanArchitecture.Application\\Features\\RoleFeatures\\Commands\\CreateRole\\CreateRoleCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T20:18:29.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\Core\\CleanArchitecture.Domain\\Abstractions\\Entity.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CleanArchitecture.Domain\\Abstractions\\Entity.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\Core\\CleanArchitecture.Domain\\Abstractions\\Entity.cs",
+              "RelativeToolTip": "src\\Core\\CleanArchitecture.Domain\\Abstractions\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T20:12:14.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserRoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Persistance\\Configurations\\UserRoleConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\External\\CleanArchitecture.Persistance\\Configurations\\UserRoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Persistance\\Configurations\\UserRoleConfiguration.cs",
+              "RelativeToolTip": "src\\External\\CleanArchitecture.Persistance\\Configurations\\UserRoleConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:16:03.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ErrorLogConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Persistance\\Configurations\\ErrorLogConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\External\\CleanArchitecture.Persistance\\Configurations\\ErrorLogConfiguration.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Persistance\\Configurations\\ErrorLogConfiguration.cs",
+              "RelativeToolTip": "src\\External\\CleanArchitecture.Persistance\\Configurations\\ErrorLogConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:15:51.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CarConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Persistance\\Configurations\\CarConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\External\\CleanArchitecture.Persistance\\Configurations\\CarConfiguration.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Persistance\\Configurations\\CarConfiguration.cs",
+              "RelativeToolTip": "src\\External\\CleanArchitecture.Persistance\\Configurations\\CarConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:15:50.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\Core\\CleanArchitecture.Domain\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CleanArchitecture.Domain\\Entities\\UserRole.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\Core\\CleanArchitecture.Domain\\Entities\\UserRole.cs",
+              "RelativeToolTip": "src\\Core\\CleanArchitecture.Domain\\Entities\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:11:08.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\CleanArchitecture.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\CleanArchitecture.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\CleanArchitecture.WebApi\\Program.cs",
+              "RelativeToolTip": "src\\CleanArchitecture.WebApi\\Program.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:10:19.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Persistance\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\External\\CleanArchitecture.Persistance\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\External\\CleanArchitecture.Persistance\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "src\\External\\CleanArchitecture.Persistance\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:10:05.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\Core\\CleanArchitecture.Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CleanArchitecture.Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\terzi\\Documents\\.NET-CORE\\CleanArchitecture-UdemyCourse\\CleanArchitecture\\src\\Core\\CleanArchitecture.Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "src\\Core\\CleanArchitecture.Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:09:24.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

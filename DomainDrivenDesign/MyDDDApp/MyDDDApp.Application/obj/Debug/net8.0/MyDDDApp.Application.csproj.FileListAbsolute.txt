@@ -1,0 +1,15 @@
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Application\bin\Debug\net8.0\MyDDDApp.Application.deps.json
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Application\bin\Debug\net8.0\MyDDDApp.Application.dll
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Application\bin\Debug\net8.0\MyDDDApp.Application.pdb
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Application\bin\Debug\net8.0\MyDDDApp.Domain.dll
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Application\bin\Debug\net8.0\MyDDDApp.Domain.pdb
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Application\obj\Debug\net8.0\MyDDDApp.Application.csproj.AssemblyReference.cache
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Application\obj\Debug\net8.0\MyDDDApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Application\obj\Debug\net8.0\MyDDDApp.Application.AssemblyInfoInputs.cache
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Application\obj\Debug\net8.0\MyDDDApp.Application.AssemblyInfo.cs
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Application\obj\Debug\net8.0\MyDDDApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Application\obj\Debug\net8.0\MyDDDApp.49140BC7.Up2Date
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Application\obj\Debug\net8.0\MyDDDApp.Application.dll
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Application\obj\Debug\net8.0\refint\MyDDDApp.Application.dll
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Application\obj\Debug\net8.0\MyDDDApp.Application.pdb
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Application\obj\Debug\net8.0\ref\MyDDDApp.Application.dll

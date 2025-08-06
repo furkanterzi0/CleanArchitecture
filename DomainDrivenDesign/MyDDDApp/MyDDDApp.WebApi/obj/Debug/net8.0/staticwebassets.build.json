@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5PhaYIRZbjSSEutbrHRYEsS3+Jaga4IiERx9PfGrDH8=",
+  "Source": "MyDDDApp.WebApi",
+  "BasePath": "_content/MyDDDApp.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

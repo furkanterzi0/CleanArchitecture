@@ -1,0 +1,11 @@
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Infrastructre\bin\Debug\net8.0\MyDDDApp.Infrastructre.deps.json
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Infrastructre\bin\Debug\net8.0\MyDDDApp.Infrastructre.dll
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Infrastructre\bin\Debug\net8.0\MyDDDApp.Infrastructre.pdb
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Infrastructre\obj\Debug\net8.0\MyDDDApp.Infrastructre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Infrastructre\obj\Debug\net8.0\MyDDDApp.Infrastructre.AssemblyInfoInputs.cache
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Infrastructre\obj\Debug\net8.0\MyDDDApp.Infrastructre.AssemblyInfo.cs
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Infrastructre\obj\Debug\net8.0\MyDDDApp.Infrastructre.csproj.CoreCompileInputs.cache
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Infrastructre\obj\Debug\net8.0\MyDDDApp.Infrastructre.dll
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Infrastructre\obj\Debug\net8.0\refint\MyDDDApp.Infrastructre.dll
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Infrastructre\obj\Debug\net8.0\MyDDDApp.Infrastructre.pdb
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Infrastructre\obj\Debug\net8.0\ref\MyDDDApp.Infrastructre.dll

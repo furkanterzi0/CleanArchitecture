@@ -1,0 +1,11 @@
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Domain\bin\Debug\net8.0\MyDDDApp.Domain.deps.json
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Domain\bin\Debug\net8.0\MyDDDApp.Domain.dll
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Domain\bin\Debug\net8.0\MyDDDApp.Domain.pdb
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Domain\obj\Debug\net8.0\MyDDDApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Domain\obj\Debug\net8.0\MyDDDApp.Domain.AssemblyInfoInputs.cache
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Domain\obj\Debug\net8.0\MyDDDApp.Domain.AssemblyInfo.cs
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Domain\obj\Debug\net8.0\MyDDDApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Domain\obj\Debug\net8.0\MyDDDApp.Domain.dll
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Domain\obj\Debug\net8.0\refint\MyDDDApp.Domain.dll
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Domain\obj\Debug\net8.0\MyDDDApp.Domain.pdb
+C:\Users\furkan.terzi\Desktop\DDD-Project\MyDDDApp\MyDDDApp.Domain\obj\Debug\net8.0\ref\MyDDDApp.Domain.dll
